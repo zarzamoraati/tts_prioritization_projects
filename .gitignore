@@ -2,4 +2,5 @@
 .env
 *.md
 notebooks
-.testing.py
+testing.py
+config.json
